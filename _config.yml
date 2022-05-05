@@ -73,6 +73,7 @@ footer:
 defaults:
   - values:
       layout: single
+      author_profile: true
 
 # Disables RSS feed icon
 atom_feed:
