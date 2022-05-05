@@ -37,7 +37,7 @@ author:
   email            : "connect@brookem.dev"
   links:
     - label        : "they/she"
-      icon         : "fa-regular fa-transgender"
+      icon         : "fa-regular fa-fw fa-transgender"
       url          : "https://shetheypronounseducation.carrd.co"
     - label        : "Photography Portfolio"
       icon         : "fas fa-fw fa-camera"
