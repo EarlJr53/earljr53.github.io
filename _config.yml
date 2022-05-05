@@ -3,25 +3,25 @@ minimal_mistakes_skin: "dark"
 
 title: "Youtube Transcript Search"
 name: "Kat Canavan, Brooke Moss"
-url: "https://olincollege.github.io/youtube-transcript-search"
-logo: "icon.png"
+url: "https://brookem.dev"
+# logo: "icon.png"
 
 markdown: "kramdown"
 
 # Plugins (previously gems:)
 plugins:
-  # - jekyll-paginate
-  # - jekyll-sitemap
-  # - jekyll-gist
-  # - jekyll-feed
-  # - jemoji
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/olincollege/youtube-transcript-search/"
+      url: "https://github.com/EarlJr53"
       
 defaults:
   - values:
