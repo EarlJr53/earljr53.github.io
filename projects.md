@@ -33,7 +33,8 @@ A first-year course at Olin, Design Nature teaches the principles of sustainabil
 ### [Public Narrative](https://youtu.be/g4SqVDs0fMc)
 A public narrative, as developed by veteran organizer and Harvard lecturer Marshall Ganz, uses storytelling as "an exercise of leadership by motivating others to join you in action on behalf of a shared purpose." Each student tells a story from their own life that illustrates a challenge they want to call you to action to address.
 
-### Designing for Democracy
+### [Designing for Democracy](https://sites.google.com/view/connectingamerica/home)
+Project Description: What deserves to be democratized? Teams will identify a design challenge where the status quo is underwhelming, such as "democratize social media" or "expand voting rights," and then look at institutions, norms and regulations, products, services, and experiences related to their challenge and imagine ways to make it more democratic / to support the growth of democracy / to support citizens to act democratically. Design challenges should be real, not imagined. You should be able to identify areas of society that would benefit from being more democratic. Using speculative design, you will create one or more ["Design Artifacts"](https://sites.google.com/view/connectingamerica/home) that realize a proposed design (a re-design of the status quo), and you will write a ["Designer Statement"](https://docs.google.com/document/d/1dDhya4ELe1ESO2o4Pul0FkmLrVMgaVCN9HDdXxbsNXI/edit?usp=sharing) that explains what you did and why.
 
 
 
@@ -42,7 +43,8 @@ A public narrative, as developed by veteran organizer and Harvard lecturer Marsh
 
 ## Public Interest Technology - Project Team
 
-### Out Maine - Educational Video Game
+### Out Maine - Educational Video Game (Fall 2021)
+Served as project manager for a group collaborating with the youth LGBTQ+ advocacy organization Out Maine. The group is working on building an educational video game to introduce children and teens to people of different identities.
 
 
 ## Passionate Pursuits
