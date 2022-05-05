@@ -1,3 +1,7 @@
+---
+title: "Projects"
+---
+
 # Course Projects @ Olin
 
 ## Software Design (Spring 2022):
