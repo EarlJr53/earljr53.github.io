@@ -73,6 +73,14 @@ Served as project manager for a group collaborating with the youth LGBTQ+ advoca
 
 &nbsp;
 
+## Personal Projects
+
+### **Web Design**
+
+#### [**Downeast Equine Sanctuary**](https://www.downeastequine.org)
+
+&nbsp;
+
 ## High School Projects
 
 ### **FIRST Robotics Competition - Team 7127**
