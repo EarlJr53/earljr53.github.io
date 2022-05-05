@@ -28,7 +28,6 @@ Now you can!
 
 #### **Ultrasonic Rangefinder**
 
-
 ### **Design Nature (Fall 2021)**
 
 A first-year course at Olin, Design Nature teaches the principles of sustainability, biomimicry, and collaborative, stakeholder-driven design.
@@ -60,8 +59,6 @@ Project Description: What deserves to be democratized? Teams will identify a des
 
 &nbsp;
 
-&nbsp;
-
 ## Other Projects @ Olin
 
 ### **Public Interest Technology**
@@ -73,8 +70,6 @@ Served as project manager for a group collaborating with the youth LGBTQ+ advoca
 ### **Passionate Pursuits**
 
 #### **Laser-Cut Topographic Maps**
-
-&nbsp;
 
 &nbsp;
 

@@ -22,8 +22,6 @@ title: "Resume"
 
 &nbsp;
 
-&nbsp;
-
 ## Sustainability Experience
 
 ### Olin Laboratory for Adaptation, Inclusion, and Robotics
@@ -42,8 +40,6 @@ title: "Resume"
 
 - Data Lead, worked with Excel formulas to track community engagement and membership
 - Chapter photographer
-
-&nbsp;
 
 &nbsp;
 
@@ -88,15 +84,11 @@ title: "Resume"
 
 &nbsp;
 
-&nbsp;
-
 ## Skills
 
 - Python, Git, JavaScript/TypeScript, Java, HTML, CSS
 - MATLAB, SOLIDWORKS
 - Adobe Creative Suite, Microsoft Office Suite (Excel)
-
-&nbsp;
 
 &nbsp;
 
