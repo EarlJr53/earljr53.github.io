@@ -1,7 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
 
-# logo: "icon.png"
+logo: "images/Personal Favicon.png"
 
 locale                   : "en-US"
 title                    : "Brooke Moss"
@@ -78,7 +78,7 @@ defaults:
 atom_feed:
   hide: true
 
-header:
-  show_overlay_excerpt: false
+# header:
+#   show_overlay_excerpt: false
   
 
