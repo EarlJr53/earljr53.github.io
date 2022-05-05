@@ -65,6 +65,7 @@ defaults:
   - values:
       layout: single
       author_profile: true
+      toc: true
 
 # Disables RSS feed icon
 atom_feed:
