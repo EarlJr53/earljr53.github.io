@@ -42,13 +42,6 @@ In this project, students design and engineer a toy that captures the wonder of 
 
 A first-year elective course at Olin, Democracy and Media teaches an understanding of democracy as something you and those around you can choose to create and practice. We ask ourselves the quintessential civic question: "What should we do?" and consider "What is my role and responsibility as a citizen? as an engineer? as a member of the Olin community?"
 
-### **Other Courses**
-
-- Projects and Markets (Spring 2022) - *Introductory entrepreneurship course.*
-- Quantitative Engineering Analysis 2 (Spring 2022) - *
-- Quantitative Engineering Analysis 1 (Fall 2021) - *Learning*
-- Modeling and Simulation of the Physical World (Fall 2021) - *Building computational models for real world systems using MATLAB*
-
 #### [Public Narrative](https://youtu.be/g4SqVDs0fMc)
 
 A public narrative, as developed by veteran organizer and Harvard lecturer Marshall Ganz, uses storytelling as "an exercise of leadership by motivating others to join you in action on behalf of a shared purpose." Each student tells a story from their own life that illustrates a challenge they want to call you to action to address.
@@ -56,6 +49,13 @@ A public narrative, as developed by veteran organizer and Harvard lecturer Marsh
 #### [Designing for Democracy](https://sites.google.com/view/connectingamerica/home)
 
 Project Description: What deserves to be democratized? Teams will identify a design challenge where the status quo is underwhelming, such as "democratize social media" or "expand voting rights," and then look at institutions, norms and regulations, products, services, and experiences related to their challenge and imagine ways to make it more democratic / to support the growth of democracy / to support citizens to act democratically. Design challenges should be real, not imagined. You should be able to identify areas of society that would benefit from being more democratic. Using speculative design, you will create one or more ["Design Artifacts"](https://sites.google.com/view/connectingamerica/home) that realize a proposed design (a re-design of the status quo), and you will write a ["Designer Statement"](https://docs.google.com/document/d/1dDhya4ELe1ESO2o4Pul0FkmLrVMgaVCN9HDdXxbsNXI/edit?usp=sharing) that explains what you did and why.
+
+### **Other Courses**
+
+- Projects and Markets (Spring 2022) - *Introductory entrepreneurship course.*
+- Quantitative Engineering Analysis 2 (Spring 2022) - *
+- Quantitative Engineering Analysis 1 (Fall 2021) - *Learning*
+- Modeling and Simulation of the Physical World (Fall 2021) - *Building computational models for real world systems using MATLAB*
 
 &nbsp;
 
