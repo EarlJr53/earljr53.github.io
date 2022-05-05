@@ -1,11 +1,9 @@
 main:
   - title: "Home"
     url: /
-  - title: "Installation"
-    url: /installation
-  - title: "Usage"
-    url: /usage
-  - title: "About"
+  - title: "About Me"
     url: /about
-  - title: "Repo"
-    url: https://github.com/olincollege/youtube-transcript-search
+  - title: "Resume"
+    url: /resume
+  - title: "Photos"
+    url: https://bearcove.media
