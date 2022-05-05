@@ -1,12 +1,12 @@
 ---
-title: "Home"
+title: "Brooke Moss"
 permalink: /
-excerpt: "Brooke Moss - Personal Website"
+excerpt: "Homepage"
 ---
 
 My name is Brooke Aspen Mague Moss.
 
-To learn more about me, check out [my About Me page](https://www.brookem.dev/about){: .notice--info}
+{: .notice--info}To learn more about me, check out [my About Me page](https://www.brookem.dev/about){: .notice--info}
 
 To see the projects I have worked on, check out [my Projects page](https://www.brookem.dev/projects){: .notice--success}
 
