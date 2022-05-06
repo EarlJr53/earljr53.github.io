@@ -1,8 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
 
-logo: "images/Personal Favicon.png"
-
 locale                   : "en-US"
 title                    : "Brooke Moss"
 title_separator          : "-"
@@ -15,7 +13,6 @@ repository               : "EarlJr53/earljr53.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/images/favicon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-shortcut icon            : "/images/favicon.png"
 
 markdown: "kramdown"
 
