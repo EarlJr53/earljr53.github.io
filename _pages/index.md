@@ -1,7 +1,7 @@
 ---
 title: "Brooke Moss"
 permalink: /
-excerpt: "Homepage"
+# excerpt: "Homepage"
 ---
 
 My name is Brooke Aspen Mague Moss.

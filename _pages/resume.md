@@ -1,5 +1,6 @@
 ---
 title: "Resume"
+permalink: /resume/
 ---
 
 **For specific projects, check out my [projects page](https://www.brookem.dev/projects)**{: .notice--info}
