@@ -75,6 +75,9 @@ defaults:
 # Disables RSS feed icon
 atom_feed:
   hide: true
+  
+include:
+  - _pages
 
 # header:
 #   show_overlay_excerpt: false
