@@ -64,6 +64,8 @@ Project Description: What deserves to be democratized? Teams will identify a des
 
 ### **Public Interest Technology**
 
+Olin PInT: We are a community of students learning how to serve the public interest by creating an engineering practice that centers care, equity, and a critical understanding of the systemic injustices that our work seeks to address.
+
 #### **Out Maine - Educational Video Game (Fall 2021)**
 
 Served as project manager for a group collaborating with the youth LGBTQ+ advocacy organization Out Maine. The group is working on building an educational video game to introduce children and teens to people of different identities.
