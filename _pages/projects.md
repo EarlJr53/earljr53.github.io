@@ -5,6 +5,12 @@ permalink: /projects/
 
 ## Course Projects @ Olin
 
+### *Principles of Integrated Engineering (Fall 2022)*
+
+### *Architecture and Urbanism (Fall 2022)*
+
+### *Materials Creation, Consumption, and Impact (Fall 2022)*
+
 ### **Software Design (Spring 2022)**
 
 An computing elective at Olin, Software Design teaches the principles of various disciplines of software design and programming through the use of Python. I completed this course in Spring 2022.
@@ -59,10 +65,11 @@ Project Description: What deserves to be democratized? Teams will identify a des
 
 ### **Other Courses**
 
+- Quantitative Engineering Analysis 3 (Fall 2022)
 - Projects and Markets (Spring 2022) - *Introductory entrepreneurship course.*
-- Quantitative Engineering Analysis 2 (Spring 2022) - *
-- Quantitative Engineering Analysis 1 (Fall 2021) - *Learning*
-- Modeling and Simulation of the Physical World (Fall 2021) - *Building computational models for real world systems using MATLAB*
+- Quantitative Engineering Analysis 2 (Spring 2022) - *Learning calculus and linear algebra through boats and robot path planning.*
+- Quantitative Engineering Analysis 1 (Fall 2021) - *Learning calculus and linear algebra through facial recognition algorithms and boats.*
+- Modeling and Simulation of the Physical World (Fall 2021) - *Building computational models for real world systems using MATLAB.*
 
 &nbsp;
 
