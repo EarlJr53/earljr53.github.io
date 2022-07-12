@@ -91,9 +91,36 @@ Served as project manager for a group collaborating with the youth LGBTQ+ advoca
 
 ## Personal Projects
 
+### **Server/IoT Projects**
+
+I am currently running a central server on a Dell Precision 5810, as well as a remote server on a Raspberry Pi 2B.
+
+While configuring and maintaining this infrastructure, I have gained experience with:
+
+- Ubuntu Server
+- Docker
+- SSH/SCP
+- Portainer (container management)
+- Traefik (web proxy)
+- DDClient (dynamic DNS)
+- Nextcloud (self-hosted file storage & more)
+- HomeAssistant (self-hosted smart home management)
+- PhotoPrism (self-hosted AI-powered photo storage)
+- MariaDB
+
 ### **Web Design**
 
+#### [**Personal Portfolio**](https://www.brookem.dev)
+
+I built this website as a place to keep my project portfolio, resume, and other personal artifacts. I have employed GitHub Pages and the Minimal Mistakes framework to build a simple, functional site.
+
 #### [**Downeast Equine Sanctuary**](https://www.downeastequine.org)
+
+After hearing about an equine sanctuary local to me, I decided to visit, take photos of the animals, and build a website. The goal of this project was to help build an online presence, which can eventually be used to drive donations and help keep the sanctuary financially sustainable.
+
+#### [**Bear Cove Media**](https://bearcove.media)
+
+To make my photography business site/portfolio, I used the Adobe Portfolio tool, allowing me to seamlessly sync my Lightroom albums onto the visually appealing site.
 
 &nbsp;
 
