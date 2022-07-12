@@ -3,6 +3,8 @@ title: "Projects"
 permalink: /projects/
 ---
 
+**Featured Projects:** [Underwater Robotics](https://www.brookem.dev/resume/#olin-laboratory-for-adaptation-inclusion-and-robotics), [Server Projects](#serveriot-projects){: .notice--info}
+
 ## Course Projects @ Olin
 
 ### *Principles of Integrated Engineering (Fall 2022)*
