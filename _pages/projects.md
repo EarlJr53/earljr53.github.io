@@ -8,11 +8,17 @@ permalink: /projects/
 
 ## Course Projects @ Olin
 
-### *Principles of Integrated Engineering (Fall 2022)*
+### **Principles of Integrated Engineering (Fall 2022)**
 
-### *Architecture and Urbanism (Fall 2022)*
+PIE has a strong focus on multidisciplinary team-based projects and integrating microcontrollers into mechanical systems.
 
-### *Materials Creation, Consumption, and Impact (Fall 2022)*
+### **Architecture and Urbanism (Fall 2022)**
+
+Taught by professor Sara Hendren, this course explores the intersections between society and our built environment.
+
+### **Materials Creation, Consumption, and Impact (Fall 2022)**
+
+Putting a sustainability spin on Materials Science, MCCI focuses on the lifecycles and material properties of single use plastics, industrial products, and consumer goods.
 
 ### **Software Design (Spring 2022)**
 
