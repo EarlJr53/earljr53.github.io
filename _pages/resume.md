@@ -12,7 +12,7 @@ permalink: /resume/
 *BS, Engineering: Sustainability // MAY2025*
 
 - Recipient of 50% tuition merit scholarship
-- Coursework includes: Bio-Inspired Design, Software Design, Modeling and Simulation, Sensors and Circuits
+- Coursework includes: Bio-Inspired Design, Software Design, Modeling and Simulation, Sensors and Circuits, Urbanism, Materials Science
 
 ### Longmeadow High School
 
@@ -29,7 +29,7 @@ permalink: /resume/
 
 *Student Researcher // MAY2022-AUG2022*
 
-- Will be working this summer with the Olin College Aquaculture Profiler team, building a robot to gather data from commercial fish farms to ensure that the farms are not harming the surrounding ecosystem and existing fishing livelihoods.
+- Spent the summer working with the Olin College Aquaculture Profiler team, developing a robot to gather data from commercial fish farms to ensure that the farms are not harming the surrounding ecosystem and existing fishing livelihoods. Focused on electrical, programming, and design aspects.
 
 ### U.S. Fish and Wildlife Service (USFWS)
 
