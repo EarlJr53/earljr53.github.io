@@ -25,7 +25,7 @@ permalink: /resume/
 
 ## Sustainability Experience
 
-### Olin Laboratory for Adaptation, Inclusion, and Robotics
+### [Olin Laboratory for Adaptation, Inclusion, and Robotics](https://ocap-lair-olin.github.io)
 
 *Student Researcher // MAY2022-AUG2022*
 
