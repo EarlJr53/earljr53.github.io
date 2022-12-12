@@ -12,13 +12,33 @@ permalink: /projects/
 
 PIE has a strong focus on multidisciplinary team-based projects and integrating microcontrollers into mechanical systems.
 
+#### **[ShopNot (CNC Router)](https://olincollege.github.io/pie-2022-03/shopnot/)**
+
+As a multidisciplinary team of 5, we built a fully functional 3-axis CNC Router in six weeks with a budget of 250 dollars.
+
 ### **Architecture and Urbanism (Fall 2022)**
 
 Taught by professor Sara Hendren, this course explores the intersections between society and our built environment.
 
+#### **Op-Ed**
+
+Coming soon...
+
 ### **Materials Creation, Consumption, and Impact (Fall 2022)**
 
 Putting a sustainability spin on Materials Science, MCCI focuses on the lifecycles and material properties of single use plastics, industrial products, and consumer goods.
+
+#### **Ultra-High Molecular Weight Polyethylene**
+
+#### **Aluminum: Cast v. Wrought Alloys**
+
+#### **Patagonia Down Jackets**
+
+### **Quantitative Engineering Analysis 3 (Fall 2022)**
+
+#### **[Erg Stroke Analysis](https://erganalysis.brookem.dev)**
+
+For my final QEA 3 project, my group decided to use DFTs and frequency analysis to look deeper into the timing of the rowing stroke, specifically on an ergometer.
 
 ### **Software Design (Spring 2022)**
 
@@ -74,7 +94,6 @@ Project Description: What deserves to be democratized? Teams will identify a des
 
 ### **Other Courses**
 
-- Quantitative Engineering Analysis 3 (Fall 2022)
 - Projects and Markets (Spring 2022) - *Introductory entrepreneurship course.*
 - Quantitative Engineering Analysis 2 (Spring 2022) - *Learning calculus and linear algebra through boats and robot path planning.*
 - Quantitative Engineering Analysis 1 (Fall 2021) - *Learning calculus and linear algebra through facial recognition algorithms and boats.*
