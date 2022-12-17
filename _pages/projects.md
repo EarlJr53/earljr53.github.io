@@ -3,7 +3,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-**Featured Projects:** [Underwater Robotics](https://www.brookem.dev/resume/#olin-laboratory-for-adaptation-inclusion-and-robotics), [HomeLab Server Projects](#serveriot-projects)
+**Featured Projects:** [Designing & making a CNC router](#shopnot-cnc-router), [Underwater Robotics](https://www.brookem.dev/resume/#olin-laboratory-for-adaptation-inclusion-and-robotics), [HomeLab Server Projects](#serveriot-projects)
 {: .notice--info}
 
 ## Course Projects @ Olin
@@ -28,11 +28,17 @@ Coming soon...
 
 Putting a sustainability spin on Materials Science, MCCI focuses on the lifecycles and material properties of single use plastics, industrial products, and consumer goods.
 
-#### **Ultra-High Molecular Weight Polyethylene**
+#### **[Ultra-High Molecular Weight Polyethylene](/assets/MCCI/UHMWPE-poster.pdf)**
 
-#### **Aluminum: Cast v. Wrought Alloys**
+For our first MCCI project, we incorporated the materials science labs and lots of research to explore single-use plastics. Our team decided to learn about UHMWPE, specifically the rope made from this material increasingly used in commercial fishing.
 
-#### **Patagonia Down Jackets**
+#### **[Aluminum: Cast v. Wrought Alloys](/assets/MCCI/aluminum-alloys.pdf)**
+
+For our second MCCI project, we were tasked with learning about an industrial material, including research, lab testing, and more. My group decided to explore the difference between wrought and cast aluminum alloys.
+
+#### **[Patagonia Down Jackets](/assets/MCCI/patatonia-poster.png)**
+
+As our 3rd project, we were tasked with diving into the materials, culture, and impact of a consumer product that is meaningful to us. My teammate and I decided to research Patagonia down jackets.
 
 ### **Quantitative Engineering Analysis 3 (Fall 2022)**
 
