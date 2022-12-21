@@ -20,9 +20,9 @@ As a multidisciplinary team of 5, we built a fully functional 3-axis CNC Router 
 
 Taught by professor Sara Hendren, this course explores the intersections between society and our built environment.
 
-#### **Op-Ed**
+#### **[Op-Ed: Winter Cycling is Not an Extreme Sport](/assets/Winter Cycling is Not an Extreme Sport.pdf)**
 
-Coming soon...
+For the final deliverable, we were tasked with writing an Op-Ed to make a persuasive argument about something in our built environment.
 
 ### **Materials Creation, Consumption, and Impact (Fall 2022)**
 
